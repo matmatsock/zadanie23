@@ -1,5 +1,6 @@
-let name="Mateusz" ;
+let name = "Mateusz" ;
 
-let surename="Soćko" ;
+let surename = "Soćko" ;
 
-console.log ( name )
+console.log ( name ) ;
+console.log ( surename ) ;
